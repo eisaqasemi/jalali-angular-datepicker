@@ -39,7 +39,7 @@
     "farsi"
   ],
   "dependencies": {
-    "jalali-moment": "^3.0.10"
+    "jalali-moment": "github:eisaqasemi/jalali-moment"
   },
   "devDependencies": {
     "@angular/cli": "1.5.0",
